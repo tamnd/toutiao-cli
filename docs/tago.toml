@@ -1,0 +1,10 @@
+title       = "toutiao"
+baseURL     = "https://toutiao-cli-cli.tamnd.com/"
+description = "Browse Toutiao ByteDance news feed (今日头条)"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/toutiao-cli-cli"
