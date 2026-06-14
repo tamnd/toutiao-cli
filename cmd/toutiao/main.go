@@ -8,7 +8,7 @@ import (
 	"syscall"
 
 	"github.com/charmbracelet/fang"
-	"github.com/tamnd/toutiao-cli-cli/cli"
+	"github.com/tamnd/toutiao-cli/cli"
 )
 
 func main() {
